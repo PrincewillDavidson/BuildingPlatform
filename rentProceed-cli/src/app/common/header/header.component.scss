@@ -29,6 +29,8 @@
   .btn-bwm-search {
     border-color: $main-color;
     color: $main-color;
+    position: right;
+   
 
     &:hover, &:focus, &:active {
       background-color: transparent;
